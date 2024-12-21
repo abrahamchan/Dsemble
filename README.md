@@ -1,5 +1,5 @@
 # D-semble
-Finding ensembles that are resilient, diverse, and accurate.
+Finding ensembles that are resilient, diverse, and accurate against faulty training data.
 
 
 ## Directory Layout
